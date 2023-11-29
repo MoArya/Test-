@@ -1,0 +1,2 @@
+#Firstpython.py
+print "hello"
